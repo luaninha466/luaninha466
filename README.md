@@ -1,0 +1,4 @@
+- 👋 Olá meu nome é @luaninha466
+- 👀 meu email de contato é Luana.chiari@escola.pr.gov.br
+- 🌱 estou interessado em novas línguas de programação
+- 💞️ estou recentemente aprendendo linguagens de programação com o javaScrip e Scrasch
